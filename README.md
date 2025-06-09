@@ -18,13 +18,13 @@ A simple Contact Management System built using *Python Tkinter* for GUI and *JSO
 ## 🖼️ Screenshots
 
 ### 🧾 Add or Update Contact
-![Add Contact](screenshots/add_contact.png)
+![Add Contact](S1.png,S2.png)
 
 ### 📜 View Contacts List
-![View Contact](screenshots/view_contacts.png)
+![View Contact](S3.png)
 
 ### ❌ Delete Contact (Error Handling)
-![Delete Error](screenshots/delete_error.png)
+![Delete Error](S4.png,S5.png)
 
 
 ---
